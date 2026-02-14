@@ -29,7 +29,7 @@ MonoBehaviour:
     Manual: https://ktane.timwi.de/HTML/Matchup%20Chart.html
 
 
-    Source Code: <available soon>'
+    Source Code: https://github.com/Espik/Matchup-Chart'
   version: v1.0
   outputFolder: build
-  previewImage: {fileID: 0}
+  previewImage: {fileID: 2800000, guid: ea6d3fd3b5559224a86dfaa3cd3c27d5, type: 3}
